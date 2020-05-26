@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Апмип.про</title>
+    <link>https://apmyp.pro/</link>
+    <description>Recent content on Апмип.про</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Tue, 26 May 2020 13:24:02 +0300</lastBuildDate>
+    
+	<atom:link href="https://apmyp.pro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How shortener feature works</title>
+      <link>https://apmyp.pro/posts/url-shortener/</link>
+      <pubDate>Tue, 26 May 2020 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/url-shortener/</guid>
+      <description>I have to make a system which can give us short version of URL and a way to track clicks.
+This gist is about how I solved the first part of problem: as short as possible URL.
+First things first. If we talk about system which handle URLs then we should have a table in database.
+Example table of URLs:
+My solution is to convert urls ID into base-n number system.</description>
+    </item>
+    
+    <item>
+      <title>Кофе дома</title>
+      <link>https://apmyp.pro/posts/coffee-at-home/</link>
+      <pubDate>Tue, 19 May 2020 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/coffee-at-home/</guid>
+      <description>Решил поделиться с вами набором лайфхаков о приготовлении кофе в домашних условиях. Оказалось, что в интернете уже есть очень хорошее видео.
+От себя добавлю, что вкусней всего найти кофе свежей обжарки. Такое реально найти на прилавках магазинов. Даже молотый.
+Из видео главное вынести технологию, а не рецепт. Добавить меньше кофе и больше молока можно, если вам так вкусно. Напиток тыквой не станет.
+«Как приготовить капучино в домашних условиях»:</description>
+    </item>
+    
+    <item>
+      <title>Пацифизм губит ухоженные сады</title>
+      <link>https://apmyp.pro/posts/well-kept-gardens-die-by-pacifism/</link>
+      <pubDate>Wed, 13 May 2020 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/well-kept-gardens-die-by-pacifism/</guid>
+      <description>Если ты не платишь за сервис, то товар — это ты. Так работает интернет.
+Популярными становятся закрытые сообщества. Сообщества на патреоне и ютубе, закрытые клубы, комнаты в дискорде не для всех.
+А у тебя есть сад? Что с ним стало?
+Заметка Элиезера Юдковского на lesswrong: https://lesswrong.ru/132</description>
+    </item>
+    
+    <item>
+      <title>Польза медитации </title>
+      <link>https://apmyp.pro/posts/aware-mindfulness/</link>
+      <pubDate>Thu, 23 Apr 2020 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/aware-mindfulness/</guid>
+      <description>Я начал заниматься медитацией, чтобы привести ум в порядок. Пока я ещё не научился взлетать в воздух или уходить в астрал, но нашел для себя много плюсов.
+Вот несколько вещей от которых я кайфую:
+Расслабление. Концентрация на расслаблении каждой части тела не самое простое занятие. У меня начало получаться спустя две недели. Но ещё ничто так меня не расслабляло :)
+Чистый разум. После пяти минут без навязчивых мыслей, ясности становится больше.</description>
+    </item>
+    
+    <item>
+      <title>Чеклист по вёрстке</title>
+      <link>https://apmyp.pro/posts/markup-checklist/</link>
+      <pubDate>Fri, 13 Dec 2019 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/markup-checklist/</guid>
+      <description>Текст
+ Прогнать весь текст через типограф: https://www.artlebedev.ru/typograf/  Картинки
+ Оптимизировать картинки: https://squoosh.app/ Экспортировать СВГ не с текстом, а с кривыми  Вёрстка
+ Проверить дерево заголовков на каждой странице: https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc?hl=ru http://snpy.in/tJH0DL Проверить вёрстку в валидаторе: https://validator.w3.org/ Проверить все страницы в Сафари  Прочее
+ Проверить цвет фона под модулями с картинкой на фоне: https://apmyp.pro/blog/all/izobrazhenie-mozhet-ne-zagruzitsya/ Проверить все страницы в Лайтхаусе: https://developers.google.com/web/tools/lighthouse  </description>
+    </item>
+    
+    <item>
+      <title>Познай example.com</title>
+      <link>https://apmyp.pro/posts/example-domain/</link>
+      <pubDate>Sat, 13 Apr 2019 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/example-domain/</guid>
+      <description>Для тестов и документации выгодно использовать домен example.com. Домен зарезервирован IANA. Он точно никому не помешает и не испортит репутацию.
+Смело регайся локально на apmyp@example.com, используй в формах http://example.com и не парься о том, что кому уйдет лишний имейл или постбэк.
+Про example.com в Википедии:
+https://en.wikipedia.org/wiki/Example.com</description>
+    </item>
+    
+    <item>
+      <title>Принцип «В сообщении всё есть»</title>
+      <link>https://apmyp.pro/posts/any-message-must/</link>
+      <pubDate>Fri, 15 Mar 2019 13:25:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/any-message-must/</guid>
+      <description>Из хорошего сообщения понятно о чем речь: о макете, новой фиче или старом забытом баге. Никто не будет вспоминать былое, проще забить.
+В сообщении есть всё, что может понадобиться собеседнику: ссылки, скриншоты, макеты, видосы, телефоны, явки и пароли.
+❌ Залил фикс по меню в прод
+✅ Активный пункт меню теперь подсвечивается: https://snpy.in/…
+❌ Ребзя, а че там с задачей???? Я её скидывал 3 часа назад. Она вообще-то АСАП
+✅ Михал Михалыч смс рассылку запустить не может из-за бага с отправкой через twilio.</description>
+    </item>
+    
+    <item>
+      <title>Изображение может не загрузиться</title>
+      <link>https://apmyp.pro/posts/image-may-not-download/</link>
+      <pubDate>Tue, 15 Jan 2019 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/image-may-not-download/</guid>
+      <description>Всегда надо помнить, что веб — штука ненадежная. Шрифты мигают, высота страницы скачет, а картинки — не грузятся.
+Если модуль выводит белый текст на темном фоне, надо учесть, что картинка-фон может не подгрузиться или делать это долго.
+Короче, ставишь color, проверяй и background-color. Надо чтобы было контрастненько.</description>
+    </item>
+    
+    <item>
+      <title>Защити свои ссылки и пользователей</title>
+      <link>https://apmyp.pro/posts/protect-link/</link>
+      <pubDate>Sat, 15 Dec 2018 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/protect-link/</guid>
+      <description>Надо выработать новую привычку. Добавлять ко внешним ссылкам не только target=_blank, но и rel=noopener noreferrer. Так внешние сайты не смогут сделать плохо.
+&amp;lt;a href=&amp;quot;https://external.link&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot; &amp;gt; Внешняя ссылка &amp;lt;/a&amp;gt; Подробнее
+Почему опасно не добавляет правильный rel?</description>
+    </item>
+    
+    <item>
+      <title>Тяни ссылку, а не оборачивай</title>
+      <link>https://apmyp.pro/posts/wrap-the-link/</link>
+      <pubDate>Thu, 13 Dec 2018 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/wrap-the-link/</guid>
+      <description>Как сделать кликабельной не только ссылку, но и картинку у карточки?
+Ссылку можно:
+ добавить вокруг картинки, ❌ обернуть вокруг всей карточки, ❌ и растянуть. ✔️  Посмотреть пример на jsfiddle.net </description>
+    </item>
+    
+    <item>
+      <title>Работа с репозиторием</title>
+      <link>https://apmyp.pro/posts/repository-notes/</link>
+      <pubDate>Thu, 26 Apr 2018 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/repository-notes/</guid>
+      <description>Как создать пул реквест
+— С реквестом должно быть удобно работать всем членам команды.
+— Название ПР-а должно ёмко отражать суть происходящего внутри.
+— Описание должно содержать ссылки на задачи в ютрэке в, примерно, таком виде — [ ] ${link}
+Как коммитить
+— Коммит должен решать одну небольшую задачу.
+— Коммиты должны быть достаточно маленькими, чтобы можно было к ним обращаться/возвращаться/черипикать.
+— Сообщение коммита должно быть написано по-русски и отвечать на вопрос «Что делает коммит?</description>
+    </item>
+    
+    <item>
+      <title>Заметка о вёрстке</title>
+      <link>https://apmyp.pro/posts/makeup-notes/</link>
+      <pubDate>Mon, 26 Mar 2018 13:24:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/makeup-notes/</guid>
+      <description>При вёрстке приложения нужно много чего учесть. Вот небольшой список того чего можно придерживаться.
+ Вёрстка должна соответствовать макету. Пиксель пёрфект — зло. Семантика. Если элемент нажимается — &amp;lt;button&amp;gt;, если ссылается на другую страницу — &amp;lt;a&amp;gt;, текст — &amp;lt;p&amp;gt; и тд. Компоненты должны быть максимально независимыми. Каскада — по-минимуму. Адаптивность. Mobile first. Если решено верстать только на десктоп, то проверять на разрешениях от 1024. Состояния. Предусмотреть все состояния кнопок, ссылок и элементов формы.</description>
+    </item>
+    
+  </channel>
+</rss>
