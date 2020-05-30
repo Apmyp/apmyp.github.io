@@ -1,28 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Кейсы on Апмип.про</title>
-    <link>https://apmyp.pro/categories/case/</link>
-    <description>Recent content in Кейсы on Апмип.про</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language>
-    <lastBuildDate>Tue, 26 May 2020 13:25:02 +0300</lastBuildDate>
-    
-	<atom:link href="https://apmyp.pro/categories/case/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>How shortener feature works</title>
-      <link>https://apmyp.pro/posts/url-shortener/</link>
-      <pubDate>Tue, 26 May 2020 13:24:02 +0300</pubDate>
-      
-      <guid>https://apmyp.pro/posts/url-shortener/</guid>
-      <description>I have to make a system which can give us short version of URL and a way to track clicks.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Кейсы on Апмип.про</title><link>https://apmyp.pro/categories/case/</link><description>Recent content in Кейсы on Апмип.про</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Tue, 26 May 2020 13:25:02 +0300</lastBuildDate><atom:link href="https://apmyp.pro/categories/case/index.xml" rel="self" type="application/rss+xml"/><item><title>How shortener feature works</title><link>https://apmyp.pro/posts/url-shortener/</link><pubDate>Tue, 26 May 2020 13:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/url-shortener/</guid><description>I have to make a system which can give us short version of URL and a way to track clicks.
 This gist is about how I solved the first part of problem: as short as possible URL.
 First things first. If we talk about system which handle URLs then we should have a table in database.
 Example table of URLs:
-My solution is to convert urls ID into base-n number system.</description>
-    </item>
-    
-  </channel>
-</rss>
+My solution is to convert urls ID into base-n number system.</description></item></channel></rss>

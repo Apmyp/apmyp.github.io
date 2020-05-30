@@ -1,86 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Разработка on Апмип.про</title>
-    <link>https://apmyp.pro/categories/development/</link>
-    <description>Recent content in Разработка on Апмип.про</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language>
-    <lastBuildDate>Tue, 26 May 2020 13:25:02 +0300</lastBuildDate>
-    
-	<atom:link href="https://apmyp.pro/categories/development/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Познай example.com</title>
-      <link>https://apmyp.pro/posts/example-domain/</link>
-      <pubDate>Sat, 13 Apr 2019 13:24:02 +0300</pubDate>
-      
-      <guid>https://apmyp.pro/posts/example-domain/</guid>
-      <description>Для тестов и документации выгодно использовать домен example.com. Домен зарезервирован IANA. Он точно никому не помешает и не испортит репутацию.
-Смело регайся локально на apmyp@example.com, используй в формах http://example.com и не парься о том, что кому уйдет лишний имейл или постбэк.
-Про example.com в Википедии:
-https://en.wikipedia.org/wiki/Example.com</description>
-    </item>
-    
-    <item>
-      <title>Изображение может не загрузиться</title>
-      <link>https://apmyp.pro/posts/image-may-not-download/</link>
-      <pubDate>Tue, 15 Jan 2019 13:24:02 +0300</pubDate>
-      
-      <guid>https://apmyp.pro/posts/image-may-not-download/</guid>
-      <description>Всегда надо помнить, что веб — штука ненадежная. Шрифты мигают, высота страницы скачет, а картинки — не грузятся.
-Если модуль выводит белый текст на темном фоне, надо учесть, что картинка-фон может не подгрузиться или делать это долго.
-Короче, ставишь color, проверяй и background-color. Надо чтобы было контрастненько.</description>
-    </item>
-    
-    <item>
-      <title>Защити свои ссылки и пользователей</title>
-      <link>https://apmyp.pro/posts/protect-link/</link>
-      <pubDate>Sat, 15 Dec 2018 13:24:02 +0300</pubDate>
-      
-      <guid>https://apmyp.pro/posts/protect-link/</guid>
-      <description>Надо выработать новую привычку. Добавлять ко внешним ссылкам не только target=_blank, но и rel=noopener noreferrer. Так внешние сайты не смогут сделать плохо.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Разработка on Апмип.про</title><link>https://apmyp.pro/categories/development/</link><description>Recent content in Разработка on Апмип.про</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Tue, 26 May 2020 13:25:02 +0300</lastBuildDate><atom:link href="https://apmyp.pro/categories/development/index.xml" rel="self" type="application/rss+xml"/><item><title>Познай example.com</title><link>https://apmyp.pro/posts/example-domain/</link><pubDate>Sat, 13 Apr 2019 13:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/example-domain/</guid><description>Для тестов и документации выгодно использовать домен example.com. Домен зарезервирован IANA. Он точно никому не помешает и не испортит репутацию.
+Смело регайся локально на apmyp@example.com, используй в формах http://example.com и не парься о том, что кому уйдет лишний имейл или постбэк.
+Про example.com в Википедии:
+{{&amp;lt; l «https://en.wikipedia.org/wiki/Example.com» &amp;ldquo;https://en.wikipedia.org/wiki/Example.com» &amp;gt;}}</description></item><item><title>Изображение может не загрузиться</title><link>https://apmyp.pro/posts/image-may-not-download/</link><pubDate>Tue, 15 Jan 2019 13:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/image-may-not-download/</guid><description>Всегда надо помнить, что веб — штука ненадежная. Шрифты мигают, высота страницы скачет, а картинки — не грузятся.
+Если модуль выводит белый текст на темном фоне, надо учесть, что картинка-фон может не подгрузиться или делать это долго.
+Короче, ставишь color, проверяй и background-color. Надо чтобы было контрастненько.</description></item><item><title>Защити свои ссылки и пользователей</title><link>https://apmyp.pro/posts/protect-link/</link><pubDate>Sat, 15 Dec 2018 13:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/protect-link/</guid><description>Надо выработать новую привычку. Добавлять ко внешним ссылкам не только target=_blank, но и rel=noopener noreferrer. Так внешние сайты не смогут сделать плохо.
 &amp;lt;a href=&amp;quot;https://external.link&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot; &amp;gt; Внешняя ссылка &amp;lt;/a&amp;gt; Подробнее
-Почему опасно не добавляет правильный rel?</description>
-    </item>
-    
-    <item>
-      <title>Тяни ссылку, а не оборачивай</title>
-      <link>https://apmyp.pro/posts/wrap-the-link/</link>
-      <pubDate>Thu, 13 Dec 2018 13:24:02 +0300</pubDate>
-      
-      <guid>https://apmyp.pro/posts/wrap-the-link/</guid>
-      <description>Как сделать кликабельной не только ссылку, но и картинку у карточки?
+{{&amp;lt; l «Почему опасно не добавляет правильный rel?» &amp;ldquo;https://github.com/iammerrick/unvalidated-redirects-example» &amp;gt;}}</description></item><item><title>Тяни ссылку, а не оборачивай</title><link>https://apmyp.pro/posts/wrap-the-link/</link><pubDate>Thu, 13 Dec 2018 13:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/wrap-the-link/</guid><description>Как сделать кликабельной не только ссылку, но и картинку у карточки?
 Ссылку можно:
- добавить вокруг картинки, ❌ обернуть вокруг всей карточки, ❌ и растянуть. ✔️  Посмотреть пример на jsfiddle.net </description>
-    </item>
-    
-    <item>
-      <title>Работа с репозиторием</title>
-      <link>https://apmyp.pro/posts/repository-notes/</link>
-      <pubDate>Thu, 26 Apr 2018 13:24:02 +0300</pubDate>
-      
-      <guid>https://apmyp.pro/posts/repository-notes/</guid>
-      <description>Как создать пул реквест
-— С реквестом должно быть удобно работать всем членам команды.
-— Название ПР-а должно ёмко отражать суть происходящего внутри.
-— Описание должно содержать ссылки на задачи в ютрэке в, примерно, таком виде — [ ] ${link}
+добавить вокруг картинки, ❌ обернуть вокруг всей карточки, ❌ и растянуть. ✔️ {{&amp;lt; l «Посмотреть пример на jsfiddle.net» &amp;ldquo;https://jsfiddle.net/apmyp/6hokma43/» &amp;gt;}}</description></item><item><title>Работа с репозиторием</title><link>https://apmyp.pro/posts/repository-notes/</link><pubDate>Thu, 26 Apr 2018 13:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/repository-notes/</guid><description>Как создать пул реквест
+— С реквестом должно быть удобно работать всем членам команды.
+— Название ПР-а должно ёмко отражать суть происходящего внутри.
+— Описание должно содержать ссылки на задачи в ютрэке в, примерно, таком виде —[]${link}
 Как коммитить
-— Коммит должен решать одну небольшую задачу.
-— Коммиты должны быть достаточно маленькими, чтобы можно было к ним обращаться/возвращаться/черипикать.
-— Сообщение коммита должно быть написано по-русски и отвечать на вопрос «Что делает коммит?</description>
-    </item>
-    
-    <item>
-      <title>Заметка о вёрстке</title>
-      <link>https://apmyp.pro/posts/makeup-notes/</link>
-      <pubDate>Mon, 26 Mar 2018 13:24:02 +0300</pubDate>
-      
-      <guid>https://apmyp.pro/posts/makeup-notes/</guid>
-      <description>При вёрстке приложения нужно много чего учесть. Вот небольшой список того чего можно придерживаться.
- Вёрстка должна соответствовать макету. Пиксель пёрфект — зло. Семантика. Если элемент нажимается — &amp;lt;button&amp;gt;, если ссылается на другую страницу — &amp;lt;a&amp;gt;, текст — &amp;lt;p&amp;gt; и тд. Компоненты должны быть максимально независимыми. Каскада — по-минимуму. Адаптивность. Mobile first. Если решено верстать только на десктоп, то проверять на разрешениях от 1024. Состояния. Предусмотреть все состояния кнопок, ссылок и элементов формы.</description>
-    </item>
-    
-  </channel>
-</rss>
+— Коммит должен решать одну небольшую задачу.
+— Коммиты должны быть достаточно маленькими, чтобы можно было к ним обращаться/возвращаться/черипикать.
+— Сообщение коммита должно быть написано по-русски и отвечать на вопрос «Что делает коммит?</description></item><item><title>Заметка о вёрстке</title><link>https://apmyp.pro/posts/makeup-notes/</link><pubDate>Mon, 26 Mar 2018 13:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/makeup-notes/</guid><description>При вёрстке приложения нужно много чего учесть. Вот небольшой список того чего можно придерживаться.
+Вёрстка должна соответствовать макету. Пиксель пёрфект — зло. Семантика. Если элемент нажимается — &amp;lt;button&amp;gt;, если ссылается на другую страницу — &amp;lt;a&amp;gt;, текст — &amp;lt;p&amp;gt; и тд. Компоненты должны быть максимально независимыми. Каскада — по-минимуму. Адаптивность. Mobile first. Если решено верстать только на десктоп, то проверять на разрешениях от 1024. Состояния. Предусмотреть все состояния кнопок, ссылок и элементов формы.</description></item></channel></rss>

@@ -1,39 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Личность on Апмип.про</title>
-    <link>https://apmyp.pro/categories/person/</link>
-    <description>Recent content in Личность on Апмип.про</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language>
-    <lastBuildDate>Tue, 26 May 2020 13:25:02 +0300</lastBuildDate>
-    
-	<atom:link href="https://apmyp.pro/categories/person/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Пацифизм губит ухоженные сады</title>
-      <link>https://apmyp.pro/posts/well-kept-gardens-die-by-pacifism/</link>
-      <pubDate>Wed, 13 May 2020 13:24:02 +0300</pubDate>
-      
-      <guid>https://apmyp.pro/posts/well-kept-gardens-die-by-pacifism/</guid>
-      <description>Если ты не платишь за сервис, то товар — это ты. Так работает интернет.
-Популярными становятся закрытые сообщества. Сообщества на патреоне и ютубе, закрытые клубы, комнаты в дискорде не для всех.
-А у тебя есть сад? Что с ним стало?
-Заметка Элиезера Юдковского на lesswrong: https://lesswrong.ru/132</description>
-    </item>
-    
-    <item>
-      <title>Польза медитации </title>
-      <link>https://apmyp.pro/posts/aware-mindfulness/</link>
-      <pubDate>Thu, 23 Apr 2020 13:24:02 +0300</pubDate>
-      
-      <guid>https://apmyp.pro/posts/aware-mindfulness/</guid>
-      <description>Я начал заниматься медитацией, чтобы привести ум в порядок. Пока я ещё не научился взлетать в воздух или уходить в астрал, но нашел для себя много плюсов.
-Вот несколько вещей от которых я кайфую:
-Расслабление. Концентрация на расслаблении каждой части тела не самое простое занятие. У меня начало получаться спустя две недели. Но ещё ничто так меня не расслабляло :)
-Чистый разум. После пяти минут без навязчивых мыслей, ясности становится больше.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Личность on Апмип.про</title><link>https://apmyp.pro/categories/person/</link><description>Recent content in Личность on Апмип.про</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Tue, 26 May 2020 13:25:02 +0300</lastBuildDate><atom:link href="https://apmyp.pro/categories/person/index.xml" rel="self" type="application/rss+xml"/><item><title>Пацифизм губит ухоженные сады</title><link>https://apmyp.pro/posts/well-kept-gardens-die-by-pacifism/</link><pubDate>Wed, 13 May 2020 13:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/well-kept-gardens-die-by-pacifism/</guid><description>Если ты не платишь за сервис, то товар — это ты. Так работает интернет.
+Популярными становятся закрытые сообщества. Сообщества на патреоне и ютубе, закрытые клубы, комнаты в дискорде не для всех.
+А у тебя есть сад? Что с ним стало?
+Заметка Элиезера Юдковского на lesswrong: https://lesswrong.ru/132</description></item><item><title>Польза медитации</title><link>https://apmyp.pro/posts/aware-mindfulness/</link><pubDate>Thu, 23 Apr 2020 13:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/aware-mindfulness/</guid><description>Я начал заниматься медитацией, чтобы привести ум в порядок. Пока я ещё не научился взлетать в воздух или уходить в астрал, но нашел для себя много плюсов.
+Вот несколько вещей от которых я кайфую:
+Расслабление. Концентрация на расслаблении каждой части тела не самое простое занятие. У меня начало получаться спустя две недели. Но ещё ничто так меня не расслабляло :)
+Чистый разум. После пяти минут без навязчивых мыслей, ясности становится больше.</description></item></channel></rss>
