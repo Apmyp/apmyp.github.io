@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://apmyp.pro/categories/case/</loc>
-    <lastmod>2020-05-26T13:25:02+03:00</lastmod>
+    <loc>https://apmyp.pro/</loc>
+    <lastmod>2020-05-30T10:00:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apmyp.pro/categories/</loc>
+    <lastmod>2020-05-30T10:00:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apmyp.pro/posts/</loc>
+    <lastmod>2020-05-30T10:00:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apmyp.pro/posts/tg-resolve/</loc>
+    <lastmod>2020-05-30T10:00:02+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://apmyp.pro/categories/lifehack/</loc>
+    <lastmod>2020-05-30T10:00:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apmyp.pro/categories/case/</loc>
     <lastmod>2020-05-26T13:25:02+03:00</lastmod>
   </url>
   
@@ -33,22 +53,7 @@
   </url>
   
   <url>
-    <loc>https://apmyp.pro/</loc>
-    <lastmod>2020-05-26T13:24:02+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://apmyp.pro/categories/</loc>
-    <lastmod>2020-05-26T13:24:02+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://apmyp.pro/posts/url-shortener/</loc>
-    <lastmod>2020-05-26T13:24:02+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://apmyp.pro/posts/</loc>
     <lastmod>2020-05-26T13:24:02+03:00</lastmod>
   </url>
   

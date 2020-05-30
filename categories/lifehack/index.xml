@@ -6,10 +6,23 @@
     <description>Recent content in Лайфхаки on Апмип.про</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 26 May 2020 13:25:02 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 10:00:02 +0300</lastBuildDate>
     
 	<atom:link href="https://apmyp.pro/categories/lifehack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Как сделать ссылку на Телеграм</title>
+      <link>https://apmyp.pro/posts/tg-resolve/</link>
+      <pubDate>Sat, 30 May 2020 10:00:02 +0300</pubDate>
+      
+      <guid>https://apmyp.pro/posts/tg-resolve/</guid>
+      <description>Если кто-то хочет забанить телеграм, то проще всего начать с доменов t.me и telegram.me.
+Чтобы ссылка работала, а пользователь не страдал, можно применить магию. Установленный Телеграм на компе или телефоне понимает переходы из браузера, которые начинаются с tg://.
+Ссылка, которую нельзя заблокировать будет выглядеть так:
+tg://resolve?domain=apmyp0
+Можно ссылаться на каналы. И даже на ботов.</description>
+    </item>
     
     <item>
       <title>Кофе дома</title>
