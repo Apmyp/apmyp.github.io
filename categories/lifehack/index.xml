@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Лайфхаки on Апмип.про</title><link>https://apmyp.pro/categories/lifehack/</link><description>Recent content in Лайфхаки on Апмип.про</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Sat, 30 May 2020 10:00:02 +0300</lastBuildDate><atom:link href="https://apmyp.pro/categories/lifehack/index.xml" rel="self" type="application/rss+xml"/><item><title>Как сделать ссылку на Телеграм</title><link>https://apmyp.pro/posts/tg-resolve/</link><pubDate>Sat, 30 May 2020 10:00:02 +0300</pubDate><guid>https://apmyp.pro/posts/tg-resolve/</guid><description>Если кто-то хочет забанить телеграм, то проще всего начать с доменов t.me и telegram.me.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Лайфхаки on Апмип.про</title><link>https://apmyp.pro/categories/lifehack/</link><description>Recent content in Лайфхаки on Апмип.про</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Mon, 08 Jun 2020 19:15:50 +0300</lastBuildDate><atom:link href="https://apmyp.pro/categories/lifehack/index.xml" rel="self" type="application/rss+xml"/><item><title>Твои публичные ключи</title><link>https://apmyp.pro/posts/github-public-keys/</link><pubDate>Mon, 08 Jun 2020 19:15:50 +0300</pubDate><guid>https://apmyp.pro/posts/github-public-keys/</guid><description>Свой или коллеги публичные ключи можно взять из Гитхаба.
+Например:
+https://github.com/apmyp.keys
+Публичный ключ можно без проблем показывать. Без секретного ничего нельзя сделать от твоего имени.
+Вот ключи DHH:
+https://github.com/dhh.keys
+Это может помочь при настройке сервера или когда твой ключ просит коллега:
+{{&amp;lt; highlight go &amp;gt;}} $ curl https://github.com/apmyp.keys ≫ ~/.ssh/authorized_keys {{&amp;lt; / highlight &amp;gt;}}</description></item><item><title>Как сделать ссылку на Телеграм</title><link>https://apmyp.pro/posts/tg-resolve/</link><pubDate>Sat, 30 May 2020 10:00:02 +0300</pubDate><guid>https://apmyp.pro/posts/tg-resolve/</guid><description>Если кто-то хочет забанить телеграм, то проще всего начать с доменов t.me и telegram.me.
 Чтобы ссылка работала, а пользователь не страдал, можно применить магию. Установленный Телеграм на компе или телефоне понимает переходы из браузера, которые начинаются с tg://.
 Ссылка, которую нельзя заблокировать выглядит так:
 tg://resolve? domain=apmyp0
