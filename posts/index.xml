@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Апмип.про</title><link>https://apmyp.pro/posts/</link><description>Recent content in Posts on Апмип.про</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Mon, 08 Jun 2020 19:15:50 +0300</lastBuildDate><atom:link href="https://apmyp.pro/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Твои публичные ключи</title><link>https://apmyp.pro/posts/github-public-keys/</link><pubDate>Mon, 08 Jun 2020 19:15:50 +0300</pubDate><guid>https://apmyp.pro/posts/github-public-keys/</guid><description>Свой или коллеги публичные ключи можно взять из Гитхаба.
-https://github.com/apmyp.keys Публичный ключ можно без проблем показывать. Без секретного ничего нельзя сделать от твоего имени.
+Например:
+https://github.com/apmyp.keys
+Публичный ключ можно без проблем показывать. Без секретного ничего нельзя сделать от твоего имени.
 Вот ключи DHH:
-https://github.com/dhh.keys Это может помочь при настройке сервера или когда твой ключ просит коллега:
-curl https://github.com/apmyp.keys &amp;gt;&amp;gt; ~/.ssh/authorized_keys</description></item><item><title>Increment — выпуск про фронтенд</title><link>https://apmyp.pro/posts/increment-frontend/</link><pubDate>Fri, 05 Jun 2020 14:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/increment-frontend/</guid><description>Инкремент — это журнал о том, как команды разрабатывают, управляют и используют масштабные программные системы.
+https://github.com/dhh.keys
+Это может помочь при настройке сервера или когда твой ключ просит коллега:
+{{&amp;lt; highlight go &amp;gt;}} $ curl https://github.com/apmyp.keys ≫ ~/.ssh/authorized_keys {{&amp;lt; / highlight &amp;gt;}}</description></item><item><title>Increment — выпуск про фронтенд</title><link>https://apmyp.pro/posts/increment-frontend/</link><pubDate>Fri, 05 Jun 2020 14:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/increment-frontend/</guid><description>Инкремент — это журнал о том, как команды разрабатывают, управляют и используют масштабные программные системы.
 В интернете много технических материалов: инструкций, лайфхаков и туторов. Инкремент закрывает другую часть нашей айтишечки. Ту часть в которой люди работают с людьми, а продукты — наносят пользу клиентам.
 С 2017 года набежало уже 13 выпусков. Каждый выпуск посвящен одной теме. Разные темы были затронуты, например: документация, опен сорс, тестирование, безопасность и интернационализация.
 В мае 2020 года вышел выпуск про Фронтенд.</description></item><item><title>Как сделать ссылку на Телеграм</title><link>https://apmyp.pro/posts/tg-resolve/</link><pubDate>Sat, 30 May 2020 10:00:02 +0300</pubDate><guid>https://apmyp.pro/posts/tg-resolve/</guid><description>Если кто-то хочет забанить телеграм, то проще всего начать с доменов t.me и telegram.me.
