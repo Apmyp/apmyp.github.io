@@ -5,11 +5,11 @@ https://github.com/apmyp.keys
 Вот ключи DHH:
 https://github.com/dhh.keys
 Это может помочь при настройке сервера или когда твой ключ просит коллега:
-$ curl &amp;lt;https://github.com/apmyp.keys&amp;gt; &amp;gt;&amp;gt; ~/.ssh/authorized_keys</description></item><item><title>Как сделать ссылку на Телеграм</title><link>https://apmyp.pro/posts/tg-resolve/</link><pubDate>Sat, 30 May 2020 10:00:02 +0300</pubDate><guid>https://apmyp.pro/posts/tg-resolve/</guid><description>Если кто-то хочет забанить телеграм, то проще всего начать с доменов t.me и telegram.me.
+$ curl https://github.com/apmyp.keys &amp;gt;&amp;gt; ~/.ssh/authorized_keys</description></item><item><title>Как сделать ссылку на Телеграм</title><link>https://apmyp.pro/posts/tg-resolve/</link><pubDate>Sat, 30 May 2020 10:00:02 +0300</pubDate><guid>https://apmyp.pro/posts/tg-resolve/</guid><description>Если кто-то хочет забанить телеграм, то проще всего начать с доменов t.me и telegram.me.
 Чтобы ссылка работала, а пользователь не страдал, можно применить магию. Установленный Телеграм на компе или телефоне понимает переходы из браузера, которые начинаются с tg://.
 Ссылка, которую нельзя заблокировать выглядит так:
 tg://resolve? domain=apmyp0
 Кроме людей, можно ссылаться на каналы. И даже на ботов.</description></item><item><title>Кофе дома</title><link>https://apmyp.pro/posts/coffee-at-home/</link><pubDate>Tue, 19 May 2020 13:24:02 +0300</pubDate><guid>https://apmyp.pro/posts/coffee-at-home/</guid><description>Решил поделиться с вами набором лайфхаков о приготовлении кофе в домашних условиях. Оказалось, что в интернете уже есть очень хорошее видео.
 От себя добавлю, что вкусней всего найти кофе свежей обжарки. Такое реально найти на прилавках магазинов. Даже молотый.
 Из видео главное вынести технологию, а не рецепт. Добавить меньше кофе и больше молока можно, если вам так вкусно. Напиток тыквой не станет.
-«Как приготовить капучино в домашних условиях»: {{&amp;lt; small_youtube «gwp5HL_QHh8» &amp;gt;}}</description></item></channel></rss>
+«Как приготовить капучино в домашних условиях»:</description></item></channel></rss>
