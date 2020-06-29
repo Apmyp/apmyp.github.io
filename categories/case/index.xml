@@ -2,4 +2,4 @@
 This gist is about how I solved the first part of problem: as short as possible URL.
 First things first. If we talk about system which handle URLs then we should have a table in database.
 Example table of URLs:
-My solution is to convert urls ID into base-n number system.</description></item></channel></rss>
+ID URL 1 https://example.com/ 2 https://reddit.</description></item></channel></rss>
